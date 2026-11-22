@@ -4,7 +4,7 @@
 # ============================================================
 #
 #  Name            : Muhammad Asad
-#  GitHub username : (write your GitHub username here)
+#  GitHub username : Muhammadasad43
 #  Date            : 22 November 2026
 #
 #  DEADLINE: Friday, 27 November 2026, 9:00 PM (PKT)
